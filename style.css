@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: burlywood;
+}
+div{
+
+    margin-top: 50px;
+    height: 100vh;
+
+}
+table, td, th{
+    /* border: 5px solid white; --this is a short*/
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    border-collapse: collapse;
+    padding: 3px;
+    text-align: center;
+    font-size: larger;
+    width: 200px;
+
+}
+table{
+    margin: 0 auto;
+
+    
+}
